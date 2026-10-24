@@ -1,11 +1,15 @@
-Materia: Lenguajes de Interfaz 
-Unidad 2
-Alumno: Villalba Rodriguez Kevin Eliazar
-Horario: 10-11 AM
-Docente: Dr. José Luis Medina Jiménez  
+# Prácticas de Lenguajes de Interfaz
+
+* **Materia:** Lenguajes de Interfaz
+* **Unidad:** Unidad 2
+* **Alumno:** Villalba Rodriguez Kevin Eliazar
+* **Horario:** 10-11 AM
+* **Docente:** Dr. José Luis Medina Jiménez
+
+---
 
 
-
+# Indice
 
 1. [Ciclos numéricos](./Practicas%20U2-Lenguajes%20de%20Interfaz/Práctica%201.%20CICLOS%20NUMÉRICOS.asm)
 2. [Captura y desplegado de mensajes](./Practicas%20U2-Lenguajes%20de%20Interfaz/Práctica%202-%20CAPTURA%20Y%20DESPLEGADO%20DE%20MENSAJE.asm)
